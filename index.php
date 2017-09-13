@@ -12,7 +12,7 @@
   <body>
     <div>
       <h3>Brian Worthington</h3>
-      <img src="/images/profile.jpg" />
+      <img src="/images/myprofile.jpg" />
     </div>
     <div class="aboutMe">
       <h3>About Me</h3>
