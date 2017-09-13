@@ -1,0 +1,36 @@
+/* stylesheet for project 1, very minimal */
+
+
+body {
+  margin: auto;
+  font-family: Verdana, Arial, sans-serif;
+}
+
+div {
+  padding: 10px 0;
+  text-align: center;
+  text-overflow:clip;
+}
+
+p {
+  line-height: 1.3;
+}
+
+.aboutMe p {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.quote p {
+  padding-left: 20%;
+  padding-right: 20%;
+  font-style: oblique;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+img {
+    width: 300px;
+}
