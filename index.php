@@ -20,8 +20,9 @@
       I live on the North shore with my wife Kara and daughter Amelia.
       I'm currently employed at Oracle, Inc, where I work as a Quality Engineer,
       testing front end and back end applications.
-      I started learning about web development about 2 years ago,
-      and I'm looking foward to learning a great deal about dynamic web applications in this course!</p>
+      I'm taking this class as the first step of a master's degree, after getting a bachelor's degree in CS way back in 2006.
+      I started learning about web development about 2 years ago, with an eye to getting back in school and learning about the applications we come to take for granted in our web-enabled world.
+      I'm looking foward to learning a great deal about dynamic web applications in this course!</p>
     </div>
     <div class="quote">
       <h3>Random Quote</h3>
