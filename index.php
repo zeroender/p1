@@ -7,12 +7,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" type="text/css" href="css/styles.css" />
+    <title>About Me - Project 1 for ES-15</title>
   </head>
 
   <body>
     <div>
       <h3>Brian Worthington</h3>
-      <img src="/images/myprofile.jpg" />
+      <img src="/images/myprofile.jpg" alt="Profile Picture of Brian"/>
     </div>
     <div class="aboutMe">
       <h3>About Me</h3>
